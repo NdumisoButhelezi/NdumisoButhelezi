@@ -26,16 +26,31 @@ Role: Full-Stack Developer, Business Analyst
 Building an LMS for the Planet 09 AI community focused on modern web development, covering HTML, CSS, JavaScript, and React. Designed the backend using REST APIs to support interactive features like quizzes, progress tracking, and community forums.
 
 ⚙️ Tech Stack & Tools
+
 Languages: Java, C#, Python, JavaScript
-APIs: REST APIs, OpenAI API, Google APIs, Firebase APIs
+
+APIs: REST APIs, OpenAI API, Google
+APIs, Firebase APIs
+
 Mobile Development: Android Studio (Java)
+
 Web Development: ASP.NET Core, React, HTML, CSS
+
 Databases: MongoDB, Firebase Firestore
 Business Analysis: BABOK Techniques (Requirements Elicitation, Process Modeling, Stakeholder Engagement)
-Tools: Git, GitHub, Visual Studio Code, Postman
+
+
+Tools: Git, GitHub, Visual Studio Code, Android Studio, Azure DevOps, Visual Studio 2022,Microsoft Visio(UML),Azure,Firebase & third-party Hosting 
+
+Postman
+
 🌱 Current Focus & Exploration
 Google Gemini API: Leading Planet 09 AI members in the Google Gemini competition to explore advanced AI capabilities.
+
+
 No-Code Development: Exploring no-code platforms to enable rapid prototyping and development, focusing on democratizing access to technology.
+
+
 🚀 My Goals
 Launch an engaging front-end development course through Planet 09 AI's LMS.
 Utilize API integrations to build scalable, impactful solutions for education and career guidance.
@@ -43,27 +58,4 @@ Grow Planet 09 AI’s community by introducing hackathons, workshops, and collab
 
 
 
-Feel free to check out my projects, contribute, or reach out for collaboration. Let's innovate together! 
-
-
-
-
-
-
-
-
-
-ChatGPT can make mistakes. Check importa
-**NdumisoButhelezi/NdumisoButhelezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my projects, contribute, or reach out for collaboration. 
