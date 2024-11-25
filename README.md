@@ -56,6 +56,6 @@ Launch an engaging front-end development course through Planet 09 AI's LMS.
 Utilize API integrations to build scalable, impactful solutions for education and career guidance.
 Grow Planet 09 AI’s community by introducing hackathons, workshops, and collaborative AI projects.
 
-
+Youtube Channel PLanet 09 AI https://www.youtube.com/@NduAILearning
 
 Feel free to check out my projects, contribute, or reach out for collaboration. 
