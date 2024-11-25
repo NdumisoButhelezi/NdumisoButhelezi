@@ -1,70 +1,108 @@
-## 👋 Hi, I'm Ndumiso Buthelezi
-🎓 Advanced Diploma in ICT | Business Analysis Graduate (BABOK)
-👨‍💻 Full-Stack Developer | API Specialist | Business Analyst
-🌍 Based in Durban, South Africa
-
-📌 Founder of Planet 09 AI
-<--
-🔭 Projects & Roles
-🌐 Planet 09 AI
-Founder and Lead Developer of a club at DUT focused on AI, web development, and empowering students with cutting-edge tech skills. As the Business Analyst, I apply BABOK principles to analyze student needs and optimize our project outcomes.
-
-### [EmpowerHer Career Hub]((https://github.com/NdumisoButhelezi/shePower))
-Empowering women through diverse job opportunities, skill-based matching, and professional growth tools that prioritize work-life balance and gender equality.
-
-- **Technologies Used:** HTML, CSS, JavaScript, Firebase, Google AI
-- **Features:** Bias-free CV generation, skill-based job matching, secure authentication.
-- **Try It Out:** [Live Demo][((https://she-power.vercel.app/))
+# 👋 Hi, I'm Ndumiso Buthelezi  
+🎓 **Advanced Diploma in ICT | Business Analysis Graduate (BABOK)**  
+👨‍💻 **Full-Stack Developer | API Specialist | Business Analyst**  
+🌍 **Based in Durban, South Africa**  
 
 ---
 
-### [GeoVenturer]((https://github.com/NdumisoButhelezi/GeoVenturer))
-An interactive tool showcasing the potential of Google Maps APIs and AI-powered recommendations.
+## 🌟 About Me
 
-- **Technologies Used:** Google Maps API, Gemini API, Tailwind CSS, Vite.js
-- **Features:** Custom markers, AI-powered recommendations, text-to-speech flashcards.
-- **Try It Out:** [Live Demo](https://project-phi-wine.vercel.app)
+I’m passionate about creating impactful tech solutions that combine innovation and accessibility. As the **Founder of Planet 09 AI**, I lead a team of students and professionals in exploring AI, web development, and next-generation technology. Leveraging my skills in full-stack development, API integration, and business analysis, I strive to deliver solutions that empower individuals and communities.
 
-🎓 AI-Driven Career Guidance Platform
-Role: API Integrator, Business Analyst & Developer
-Creating a career guidance system using ASP.NET Core, Android Studio, and MongoDB. The platform leverages multiple APIs (including OpenAI API for AI-driven recommendations) to offer personalized career advice. Applied BA skills for detailed requirements gathering and stakeholder engagement. link to try out https://she-power.vercel.app/
+---
 
+## 🔭 Featured Projects & Roles
 
-📚 Learning Management System (LMS)
-Role: Full-Stack Developer, Business Analyst
-Building an LMS for the Planet 09 AI community focused on modern web development, covering HTML, CSS, JavaScript, and React. Designed the backend using REST APIs to support interactive features like quizzes, progress tracking, and community forums.
+### 🌐 **Planet 09 AI**  
+**Founder and Lead Developer**  
+I lead a tech-focused club at DUT dedicated to advancing skills in AI, web development, and more. Using **BABOK principles**, I analyze student needs and ensure our projects meet the highest standards. We also host hackathons and workshops to promote collaborative learning.
 
-⚙️ Tech Stack & Tools
+---
 
-Languages: Java, C#, Python, JavaScript
+### [🚀 EmpowerHer Career Hub](https://github.com/NdumisoButhelezi/shePower)  
+Empowering women through diverse job opportunities, skill-based matching, and professional growth tools that prioritize work-life balance and gender equality.
 
-APIs: REST APIs, OpenAI API, Google
-APIs, Firebase APIs
+- **Technologies Used:** HTML, CSS, JavaScript, Firebase, Google AI  
+- **Features:**  
+  - Bias-free CV generation.  
+  - Skill-based job matching.  
+  - Secure authentication.  
+- **Live Demo:** [EmpowerHer Career Hub](https://she-power.vercel.app)
 
-Mobile Development: Android Studio (Java)
+---
 
-Web Development: ASP.NET Core, React, HTML, CSS
+### [📍 GeoVenturer](https://github.com/NdumisoButhelezi/GeoVenturer)  
+An interactive tool showcasing the potential of Google Maps APIs and AI-powered recommendations.  
 
-Databases: MongoDB, Firebase Firestore
-Business Analysis: BABOK Techniques (Requirements Elicitation, Process Modeling, Stakeholder Engagement)
+- **Technologies Used:** Google Maps API, Gemini API, Tailwind CSS, Vite.js  
+- **Features:**  
+  - Custom markers for maps.  
+  - AI-powered recommendations.  
+  - Text-to-speech flashcards for enhanced accessibility.  
+- **Live Demo:** [GeoVenturer](https://project-phi-wine.vercel.app)
 
+---
 
-Tools: Git, GitHub, Visual Studio Code, Android Studio, Azure DevOps, Visual Studio 2022,Microsoft Visio(UML),Azure,Firebase & third-party Hosting 
+### [🎓 GoDigiCareer](https://github.com/NdumisoButhelezi/GoDigiCareer)  
+A student-centric app that evaluates report cards and recommends varsity courses. It includes an **OpenAI API integration** to provide career insights based on selected courses.  
 
-Postman
+- **Technologies Used:** C#, ASP.NET, Azure DevOps  
+- **Features:**  
+  - Upload student report cards and analyze eligibility for university courses.  
+  - Integrated AI insights into career paths for chosen courses.  
+  - Deployed via Azure Websites for seamless access.  
+- **Live Demo:** [GoDigiCareer](https://godigicareer.azurewebsites.net/)
 
-🌱 Current Focus & Exploration
-Google Gemini API: Leading Planet 09 AI members in the Google Gemini competition to explore advanced AI capabilities.
+---
 
+## ⚙️ Tech Stack & Tools
 
-No-Code Development: Exploring no-code platforms to enable rapid prototyping and development, focusing on democratizing access to technology.
+### **Languages**  
+- Java, C#, Python, JavaScript, TypeScript  
 
+### **Frameworks & APIs**  
+- REST APIs, OpenAI API, Google APIs, Firebase APIs  
+- ASP.NET Core, React  
 
-🚀 My Goals
-Launch an engaging front-end development course through Planet 09 AI's LMS.
-Utilize API integrations to build scalable, impactful solutions for education and career guidance.
-Grow Planet 09 AI’s community by introducing hackathons, workshops, and collaborative AI projects.
+### **Mobile & Web Development**  
+- Android Studio (Java)  
+- HTML, CSS, Tailwind CSS  
 
-Youtube Channel PLanet 09 AI https://www.youtube.com/@NduAILearning
+### **Databases**  
+- MongoDB, Firebase Firestore  
 
-Feel free to check out my projects, contribute, or reach out for collaboration. 
+### **Business Analysis**  
+- BABOK Techniques (Requirements Elicitation, Process Modeling, Stakeholder Engagement)  
+
+### **Tools**  
+- Git, GitHub, Visual Studio Code, Azure DevOps, Visual Studio 2022  
+- Microsoft Visio (UML), Azure, Firebase  
+- Postman  
+
+---
+
+## 🌱 Current Focus
+
+### **Google Gemini API**  
+Leading Planet 09 AI members in the Google Gemini competition to explore advanced AI capabilities.
+
+### **No-Code Development**  
+Exploring no-code platforms to enable rapid prototyping and democratize access to technology.
+
+---
+
+## 🚀 Goals
+
+- Launch an engaging front-end development course through Planet 09 AI’s LMS.  
+- Expand Planet 09 AI’s community through hackathons, workshops, and collaborative AI projects.  
+- Develop scalable, impactful solutions for education and career guidance through API integration.
+
+---
+
+## 🎥 Planet 09 AI YouTube Channel  
+
+Visit [Planet 09 AI YouTube](https://www.youtube.com/@NduAILearning) to explore tutorials, tech insights, and more.  
+
+---
+
+Feel free to check out my projects, contribute, or reach out for collaboration opportunities!
