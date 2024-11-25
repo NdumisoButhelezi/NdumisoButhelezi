@@ -69,6 +69,10 @@ A student-centric app that evaluates report cards and recommends varsity courses
 - HTML, CSS, Tailwind CSS  
 
 ### **Databases**  
+#### **Relational Databases**  
+- SQL, SQLite  
+
+#### **Non-Relational Databases**  
 - MongoDB, Firebase Firestore  
 
 ### **Business Analysis**  
