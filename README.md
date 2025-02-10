@@ -4,7 +4,7 @@
 🌍 **Based in Durban, South Africa**  
 
 ---
-
+## PLanet 09 AI Youth empowering program : https://planet-participation-hub.lovable.app
 ## 🌟 About Me
 
 I’m passionate about creating impactful tech solutions that combine innovation and accessibility. As the **Founder of Planet 09 AI**, I lead a team of students and professionals in exploring AI, web development, and next-generation technology. Leveraging my skills in full-stack development, API integration, and business analysis, I strive to deliver solutions that empower individuals and communities.
