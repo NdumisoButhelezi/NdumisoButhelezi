@@ -1,112 +1,21 @@
-# 👋 Hi, I'm Ndumiso Buthelezi  
-🎓 **Advanced Diploma in ICT | Business Analysis Graduate (BABOK)**  
-👨‍💻 **Full-Stack Developer | API Specialist | Business Analyst**  
-🌍 **Based in Durban, South Africa**  
+# 💫 About Me:
+👋 Hi, I'm Ndumiso Buthelezi, a passionate full-stack developer, <br>business analyst, and founder of Planet 09 AI a youth-led tech club <br>focused on AI,web development, and empowering communities <br>through innovation.With a background in ICT and Business Analysis <br>(BABOK), I specialize in building impactful solutions that bridge <br>education,echnology, and accessibility.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ndumiso-buthelezi-81581021b/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@NduAILearning) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ndumiso Buthelezi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ndumiso Buthelezi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ndumiso Buthelezi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ndumiso Buthelezi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-## PLanet 09 AI Youth empowering program : https://planet-participation-hub.lovable.app
-## 🌟 About Me
+[![](https://visitcount.itsvg.in/api?id=Ndumiso Buthelezi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I’m passionate about creating impactful tech solutions that combine innovation and accessibility. As the **Founder of Planet 09 AI**, I lead a team of students and professionals in exploring AI, web development, and next-generation technology. Leveraging my skills in full-stack development, API integration, and business analysis, I strive to deliver solutions that empower individuals and communities.
-
----
-
-## 🔭 Featured Projects & Roles
-
-### 🌐 **Planet 09 AI**  
-**Founder and Lead Developer**  
-I lead a tech-focused club at DUT dedicated to advancing skills in AI, web development, and more. Using **BABOK principles**, I analyze student needs and ensure our projects meet the highest standards. We also host hackathons and workshops to promote collaborative learning.
-
----
-
-### [🚀 EmpowerHer Career Hub](https://github.com/NdumisoButhelezi/shePower)  
-Empowering women through diverse job opportunities, skill-based matching, and professional growth tools that prioritize work-life balance and gender equality.
-
-- **Technologies Used:** HTML, CSS, JavaScript, Firebase, Google AI  
-- **Features:**  
-  - Bias-free CV generation.  
-  - Skill-based job matching.  
-  - Secure authentication.  
-- **Live Demo:** [EmpowerHer Career Hub](https://she-power.vercel.app)
-
----
-
-### [📍 GeoVenturer](https://github.com/NdumisoButhelezi/GeoVenturer)  
-An interactive tool showcasing the potential of Google Maps APIs and AI-powered recommendations.  
-
-- **Technologies Used:** Google Maps API, Gemini API, Tailwind CSS, Vite.js  
-- **Features:**  
-  - Custom markers for maps.  
-  - AI-powered recommendations.  
-  - Text-to-speech flashcards for enhanced accessibility.  
-- **Live Demo:** [GeoVenturer](https://project-phi-wine.vercel.app)
-
----
-
-### [🎓 GoDigiCareer](https://github.com/NdumisoButhelezi/GoDigiCareer)  
-A student-centric app that evaluates report cards and recommends varsity courses. It includes an **OpenAI API integration** to provide career insights based on selected courses.  
-
-- **Technologies Used:** C#, ASP.NET, Azure DevOps  
-- **Features:**  
-  - Upload student report cards and analyze eligibility for university courses.  
-  - Integrated AI insights into career paths for chosen courses.  
-  - Deployed via Azure Websites for seamless access.  
-- **Live Demo:** [GoDigiCareer](https://godigicareer.azurewebsites.net/)
-
----
-
-## ⚙️ Tech Stack & Tools
-
-### **Languages**  
-- Java, C#, Python, JavaScript, TypeScript  
-
-### **Frameworks & APIs**  
-- REST APIs, OpenAI API, Google APIs, Firebase APIs  
-- ASP.NET Core, React  
-
-### **Mobile & Web Development**  
-- Android Studio (Java)  
-- HTML, CSS, Tailwind CSS  
-
-### **Databases**  
-#### **Relational Databases**  
-- SQL, SQLite  
-
-#### **Non-Relational Databases**  
-- MongoDB, Firebase Firestore  
-
-### **Business Analysis**  
-- BABOK Techniques (Requirements Elicitation, Process Modeling, Stakeholder Engagement)  
-
-### **Tools**  
-- Git, GitHub, Visual Studio Code, Azure DevOps, Visual Studio 2022  
-- Microsoft Visio (UML), Azure, Firebase  
-- Postman  
-
----
-
-## 🌱 Current Focus
-
-### **Google Gemini API**  
-Leading Planet 09 AI members in the Google Gemini competition to explore advanced AI capabilities.
-
-### **No-Code Development**  
-Exploring no-code platforms to enable rapid prototyping and democratize access to technology.
-
----
-
-## 🚀 Goals
-
-- Launch an engaging front-end development course through Planet 09 AI’s LMS.  
-- Expand Planet 09 AI’s community through hackathons, workshops, and collaborative AI projects.  
-- Develop scalable, impactful solutions for education and career guidance through API integration.
-
----
-
-## 🎥 Planet 09 AI YouTube Channel  
-
-Visit [Planet 09 AI YouTube](https://www.youtube.com/@NduAILearning) to explore tutorials, tech insights, and more.  
-
----
-
-Feel free to check out my projects, contribute, or reach out for collaboration opportunities!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
