@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm **Ndumiso Buthelezi**, a passionate full-stack developer,  
+👋 Hi, I'm **Ndumiso Buthelezi**, a full-stack developer,  
 business analyst, and founder of **Planet 09 AI** — a youth-led tech club  
 focused on AI, web development, and empowering communities through innovation.  
 With a background in ICT and Business Analysis (BABOK), I specialize in building  
